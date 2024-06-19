@@ -4,24 +4,17 @@ body {
     margin: 0;
     padding: 0;
     background: #f4f4f4;
-    background-image: url('D:\hijau.jpg');  
-    background-size: cover;  
-    background-position: center;
-    background-repeat: no-repeat;
-    
 }
 
 .brand-text {
     font-size: 30px; 
-    font-weight: bold; 
-   
+    font-weight: bold;
 }
-
 
 header, footer {
     background: #009578;
     color: white;
-    padding: 10px ;
+    padding: 10px;
     text-align: center;
 }
 
@@ -45,13 +38,7 @@ nav ul li a {
 }
 
 main {
-    padding: 150px;
-    text-align: center;
-    
-}
-
-h1,h3 {
-    color: #faf7f7;
+    color: #faf7f7; 
 }
 
 footer {

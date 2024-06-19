@@ -43,7 +43,7 @@ main {
     text-align: center;
 }
 
-h1, h2 {
+h1, h2 , h3{
     color: #333;
 }
 
@@ -53,6 +53,13 @@ section {
     padding: 20px;
     width: 80%;
     box-shadow: 0 0 10px #ccc;
+    text-align: justify;
+}
+
+section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {

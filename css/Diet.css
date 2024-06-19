@@ -65,13 +65,15 @@ p {
     text-align: justify;
 }
 
+.center-text {
+    text-align: center;
+}
+
 section img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
-
 
 section {
     background: #ffffff;
@@ -93,4 +95,9 @@ section {
 footer {
     font-size: 0.8em;
 }
+
+.Footer {
+    text-align: center;
+}
+
 

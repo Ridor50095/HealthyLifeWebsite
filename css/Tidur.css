@@ -57,6 +57,10 @@ th {
     background-color: #7486df;
 }
 
+p {
+    text-align: justify;
+}
+
 h1, h2 {
     color: #333;
 }
@@ -67,6 +71,21 @@ section {
     padding: 20px;
     width: 80%;
     box-shadow: 0 0 10px #ccc;
+    text-align: left;
+}
+
+.Tabel-tidur {
+    text-align: center;
+} 
+
+section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Footer {
+    text-align: center;
 }
 
 footer {
